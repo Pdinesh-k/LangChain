@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+langchain
+python-dotenv
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
